@@ -60,7 +60,7 @@ Licensing
 Example modules should be licensed GPLv3 per the rest of Ansible, to encourage modules
 to graduate from contrib to core.
 
-Playbook example content and templates, etc, should be full copyleft or
-BSD/MIT licensed, up the discretion of the author.
-
+All playbook content is assumed to be Creative Commons 3.0 Attribution licensed. 
+Non-commerical or No-derivatives CC extensions are not acceptable, to encourage
+easy use by all users, regardless of purpose.
 
